@@ -5,7 +5,8 @@
   "main": "hello-world-server.js",
   "dependencies": {
       "express": "~4.15.3",
-      "body-parser": "~1.17.2"
+      "body-parser": "~1.17.2",
+      "request": "~2.81.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
